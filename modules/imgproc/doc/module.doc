@@ -1,0 +1,37 @@
+/*******************************************
+ * Module imgproc
+ *******************************************/
+/*!
+  \defgroup module_imgproc imgproc: Image processing module
+  Image processing module content.
+*/
+/*!
+  \ingroup module_imgproc
+  \defgroup group_imgproc_brightness Brightness and contrast adjustment
+  Brightness and contrast adjustment.
+*/
+/*!
+  \ingroup module_imgproc
+  \defgroup group_imgproc_gamma Gamma correction
+  Gamma correction.
+*/
+/*!
+  \ingroup module_imgproc
+  \defgroup group_imgproc_histogram Histogram equalization
+  Histogram equalization.
+*/
+/*!
+  \ingroup module_imgproc
+  \defgroup group_imgproc_contrast Contrast stretching
+  Contrast stretching.
+*/
+/*!
+  \ingroup module_imgproc
+  \defgroup group_imgproc_sharpening Image sharpening
+  Image sharpening.
+*/
+/*!
+  \ingroup module_imgproc
+  \defgroup group_imgproc_retinex Retinex
+  Retinex.
+*/
