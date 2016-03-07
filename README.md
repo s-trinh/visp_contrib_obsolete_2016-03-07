@@ -1,0 +1,1 @@
+# visp_contrib_obsolete_2016-03-07
